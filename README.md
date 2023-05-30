@@ -9,7 +9,6 @@ This repository contains a collection of API tests for RestfulBooker.com, a samp
 -   [Usage](https://github.com//Rishikesh-pal/API-Testing-Projects/#usage)
 -   [Test Cases](https://github.com//Rishikesh-pal/API-Testing-Projects/#test-cases)
 -   [Contributing](https://github.com//Rishikesh-pal/API-Testing-Projects/#contributing)
--   [License](https://github.com//Rishikesh-pal/API-Testing-Projects/#license)
 
 ## Introduction
 
